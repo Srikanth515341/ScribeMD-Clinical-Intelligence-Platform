@@ -1,6 +1,6 @@
 # ScribeMD Clinical Intelligence Platform
 
-A modern full-stack clinical documentation platform designed as a prototype solution for healthcare organizations such as ScribeMD.
+A modern full-stack clinical documentation platform designed as a prototype solution for healthcare organizations such as **ScribeMD**.
 
 This platform demonstrates how AI-assisted workflows can help doctors reduce documentation time, manage consultations efficiently, generate structured clinical notes, and streamline patient record handling through a secure web application.
 
@@ -12,12 +12,12 @@ This project was built to showcase a production-style solution aligned with real
 
 Doctors and clinics often lose valuable time writing notes manually after consultations. This platform addresses that challenge by enabling:
 
-- Patient profile management
-- Consultation session recording
-- Structured note generation
-- Smart workflow tracking
-- Export-ready documentation
-- Secure doctor access
+- Patient profile management  
+- Consultation session recording  
+- Structured note generation  
+- Smart workflow tracking  
+- Export-ready documentation  
+- Secure doctor access  
 
 ---
 
@@ -25,11 +25,11 @@ Doctors and clinics often lose valuable time writing notes manually after consul
 
 This solution directly aligns with organizations focused on:
 
-- Medical scribing
-- AI healthcare documentation
-- Physician productivity tools
-- Clinical workflow automation
-- Digital health SaaS products
+- Medical scribing  
+- AI healthcare documentation  
+- Physician productivity tools  
+- Clinical workflow automation  
+- Digital health SaaS products  
 
 The platform demonstrates how a scalable internal product could support doctors, clinics, telehealth providers, and medical documentation teams.
 
@@ -39,55 +39,55 @@ The platform demonstrates how a scalable internal product could support doctors,
 
 ### Authentication
 
-- Doctor registration
-- Secure login
-- JWT-based session handling
-- Protected routes
-- Logout flow
+- Doctor registration  
+- Secure login  
+- JWT-based session handling  
+- Protected routes  
+- Logout flow  
 
 ### Dashboard
 
-- Clinical workflow overview
-- Patient counts
-- Consultation statistics
-- Completed note tracking
-- Pending workflow tracking
+- Clinical workflow overview  
+- Patient counts  
+- Consultation statistics  
+- Completed note tracking  
+- Pending workflow tracking  
 
 ### Patient Management
 
-- Create patient profiles
-- Store demographics
-- Store contact information
-- Manage patient records
+- Create patient profiles  
+- Store demographics  
+- Store contact information  
+- Manage patient records  
 
 ### Consultation Workflow
 
-- Create consultations
-- Capture symptoms
-- Store consultation transcripts
-- Maintain consultation history
-- View consultation details
+- Create consultations  
+- Capture symptoms  
+- Store consultation transcripts  
+- Maintain consultation history  
+- View consultation details  
 
 ### Clinical Note Generation
 
-Structured SOAP style notes:
+Structured SOAP-style notes:
 
-- Subjective
-- Objective
-- Assessment
-- Plan
+- Subjective  
+- Objective  
+- Assessment  
+- Plan  
 
 ### Export Module
 
-- JSON export
-- PDF export
-- EHR export
+- JSON export  
+- PDF export  
+- EHR export  
 
 ### Search & Productivity
 
-- Search consultation history
-- Quick access to records
-- Organized workflow navigation
+- Search consultation history  
+- Quick access to records  
+- Organized workflow navigation  
 
 ---
 
@@ -95,31 +95,31 @@ Structured SOAP style notes:
 
 ### Frontend
 
-- React.js
-- React Router DOM
-- Axios
-- Custom CSS UI Architecture
+- React.js  
+- React Router DOM  
+- Axios  
+- Custom CSS UI Architecture  
 
 ### Backend
 
-- Python
-- FastAPI
-- SQLAlchemy ORM
-- JWT Authentication
-- Passlib Security
-- Pydantic Validation
+- Python  
+- FastAPI  
+- SQLAlchemy ORM  
+- JWT Authentication  
+- Passlib Security  
+- Pydantic Validation  
 
 ### Database
 
-- PostgreSQL
+- PostgreSQL  
 
 ### Ready for Future Scaling
 
-- Redis
-- Celery
-- Docker
-- OpenAI Integration
-- Cloud Deployment
+- Redis  
+- Celery  
+- Docker  
+- OpenAI Integration  
+- Cloud Deployment  
 
 ---
 
@@ -161,7 +161,6 @@ Generate clinical note
 Export records
 Search consultation history
 Manage secure session logout
-
 Future Improvements
 AI Enhancements
 Real LLM note generation
