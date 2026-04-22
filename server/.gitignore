@@ -1,0 +1,21 @@
+# server/.gitignore
+
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+
+logs/
+*.log
+
+.pytest_cache/
+.coverage
+
+.idea/
+.vscode/
+
+dist/
+build/
